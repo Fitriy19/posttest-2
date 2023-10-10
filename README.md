@@ -7,6 +7,7 @@
 ### Untuk Penyewa
 
 - Melihat daftar kamar yang tersedia.
+
   ![image](https://github.com/Fitriy19/posttest-2/assets/146033191/900714c6-a1a5-4231-bc30-16516028d213)
 
 - Pesan kamar dengan jumlah malam yang spesifik.
